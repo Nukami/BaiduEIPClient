@@ -1,0 +1,4 @@
+<?PHP
+	$ACCESS_KEY = 'ad42d3d65baf48b7a908c1dd6e2808d7';
+	$SECRET_KEY = '4658b61b2c004c399380b4e6d4fb4a26';
+	$INSTANCE_ID = 'i-FwrKAjaU';
